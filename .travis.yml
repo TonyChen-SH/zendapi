@@ -1,0 +1,4 @@
+install:
+compiler:
+  - gcc
+  - clang
